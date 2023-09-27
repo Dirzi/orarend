@@ -1,0 +1,31 @@
+body{
+    background-image: url(https://kep.index.hu/1/0/1424/14242/142429/14242932_be36b4e32a36019353e0a181c300d46b_wm.jpg);
+    backdrop-filter: blur(10px);
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    
+}
+
+
+th, td {
+    padding: 15px;
+    text-align: center;
+    border-collapse: collapse;
+    border: 2px solid;
+    background-color: black;
+    color: white;
+}
+table{
+    border-collapse: collapse;
+}
+
+th{
+    background-color: green;
+}
+
+p{
+    text-align: center;
+    font-size: 50px;
+
+}
